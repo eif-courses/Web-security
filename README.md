@@ -23,7 +23,8 @@ ___
 ___
 ### 2 TASK (1 point).
 ___
-- 
+- Configure Damn Vulnerable Web Application - (http://www.dvwa.co.uk/) and run in localhost like you do it on 1 task run your firstpage. When you run it you need to configure security levels and change to low, then find link XSS stored and try to create script which let you pop up window with text hello world.
+- Create script which store username amd password information, redirect to anypage, shows up advertisments, play video or audio sounds.
 ___
 
 ### EXAM
