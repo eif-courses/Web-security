@@ -69,3 +69,5 @@ ___
 
 - Best place for beginners learn php, xml, html, JS, SQL - (http://www.w3schools.com/php/default.asp).  
 - The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition by Dafydd Stuttard, Marcus ISBN-13: 860-1404288999
+- Official PHP manual - (http://php.net/manual/en/).
+- Open Web Application Security Project - (https://www.owasp.org/index.php/Main_Page).
