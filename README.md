@@ -13,7 +13,18 @@ Main goals:
 - Create roles for users e.g. Administrator - have full control access, Basic user - have less access to web page functionalitty, Guest - only can see home page.    
 
 ### PRACTICAL TASKS
+___
+### 1 TASK (1 point).
+___
+- Software already installed in computer classrooms if you using personal computers you can download from software section. 
+- Using OWASP Zed Attack Proxy Project (ZAP tool) try to find vulnerable website in "URL to Attack" field enter URL address and press start scan. In alerts tab you see all risks which is marked as warnings, medium and high priority risks. If you find web page with high priority risks first lecture you get bonus 1 point to your final evaluation. 
+- Run A Windows Web development environment for Apache, MySQL, PHP databases and try to launch http://localhost:8888 if it working try to find wwww/ directory and add new webpage named myFirstPage.php, open that file and add simple code line <?php echo 'hello world!!!' ?> if everythis is fine and browser open your web page with text hello world !!! then you are ready to do next tasks.   
 
+___
+### 2 TASK (1 point).
+___
+- 
+___
 
 ### EXAM
 - Quiz from top 10 OWASP (Open Web Application Security Project) vulnerabilities.
