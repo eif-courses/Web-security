@@ -25,7 +25,25 @@ ___
 ___
 - Configure Damn Vulnerable Web Application - (http://www.dvwa.co.uk/) and run in localhost like you do it on 1 task run your firstpage. When you run it you need to configure security levels and change to low, then find link XSS stored and try to create script which let you pop up window with text hello world.
 - Create script which store username amd password information, redirect to anypage, shows up advertisments, play video or audio sounds.
+
 ___
+### 3 TASK (1 point).
+___
+
+- CAPTCHA (Completely Automated Public Turing
+test to tell Computers and Humans Apart) – A CAPTCHA is a program that protects websites against bots by generating and grading tests that humans can pass but current computer programs cannot.
+- Create your own unique CAPTCHA test which should have those components: picture, text, digit, quiz ect.   
+
+___
+
+testas, naudojamas
+kompiuteriuose ir skirtas nustatyti ar naudotojas yra žmogus,
+ar ne. Užduoties tikslas sugalvoti CAPTCHA algoritmą,
+pageidautina jog būtų, net tik skaičių ir raidžių
+generatorius, kurį nesunkiai nepageidauntini asmenys galėtų
+nuskaityti. Pavyzdžiui galėtų būti veiksmai su skaičiais,
+klausimai, paveikslėliai ir pnš. Užduočiai atlikti naudoti bet
+kokią programavimo kalbą, svarbu rezultatas.
 
 ### EXAM
 - Quiz from top 10 OWASP (Open Web Application Security Project) vulnerabilities.
