@@ -47,7 +47,7 @@ ___
 ### 5 TASK (10 points)
 ___
 
-- Create myFunction.php then create own unique function which secure against XSS attacks (do no use default libraries functions e.g. htmlentities()). 
+- Create **myFunction.php** then create own unique function which secure against XSS attacks (do not use default libraries functions e.g. htmlentities()). 
 - You should think how to ignore special characters in input fields, also your should implement data validation function.
 - When you prepeare to show your created unique function you should have some prepeared testing data for your myFunction.php input fields.
 
