@@ -23,8 +23,8 @@ ___
 ___
 ### 2 TASK (10 points)
 ___
-- Configure Damn Vulnerable Web Application - (http://www.dvwa.co.uk/) and run in localhost like you do it on 1 task run your firstpage. When you run it you need to configure security levels and change to low, then find link XSS stored and try to create script which let you pop up window with text hello world.
-- Create script which store username amd password information, redirect to anypage, shows up advertisments, play video or audio sounds.
+- Configure Damn Vulnerable Web Application - (http://www.dvwa.co.uk/) and run in localhost using WAMP server. When you run it you need to configure security levels and change to low, then find link XSS stored and try to create script which let you pop up window with text **hello world**.
+- Create script which store username and password information, redirect to anypage, shows up advertisments, play video or audio sounds.
 
 ___
 ### 3 TASK (10 points)
@@ -57,7 +57,7 @@ ___
 - Quiz from top 10 OWASP (Open Web Application Security Project) vulnerabilities.
 
 ### SOFTWARE
-- A Windows Web development environment for Apache, MySQL, PHP databases. (https://sourceforge.net/projects/wampserver/files/latest/download).
+- A Windows Web development environment for Apache, MySQL, PHP databases (WAMP server). (https://sourceforge.net/projects/wampserver/files/latest/download).
 - Damn Vulnerable Web Application - (http://www.dvwa.co.uk/).
 - OWASP Zed Attack Proxy Project - (https://github.com/zaproxy/zaproxy/wiki/Downloads).
 - WGET - (http://gnuwin32.sourceforge.net/packages/wget.htm).
