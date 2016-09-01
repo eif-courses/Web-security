@@ -63,7 +63,9 @@ ___
 - WGET - (http://gnuwin32.sourceforge.net/packages/wget.htm).
 
 ### LECTURE NOTES
+Web application security - (https://github.com/fontpoint/security/tree/master/lecture%20notes).
 
 ### LITERATURE
 
+Best place for beginners learn php, xml, html, JS, SQL - (http://www.w3schools.com/php/default.asp).  
 
