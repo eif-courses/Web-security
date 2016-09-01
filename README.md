@@ -16,7 +16,7 @@ Main goals:
 
 ### EXAM
 
-- Quiz from top 10 OWASP vulnerabilities
+- Quiz from top 10 OWASP vulnerabilities.
 
 ### SOFTWARE
 
