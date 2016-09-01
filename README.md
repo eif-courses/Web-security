@@ -39,9 +39,8 @@ ___
 ___
 
 - Download WGET tool (http://gnuwin32.sourceforge.net/packages/wget.htm) and first read help or documentation.
-- Using Windows operating system run command prompt add your wget tool path to installed wget bin directory cd "C:\Program Files (x86)\GnuWin32\bin".  
-- Try to run wget tool enter command cd "C:\Program Files (x86)\GnuWin32\bin"
-wget.exe --help read instructions and try to do some tasks. 
+- Using Windows operating system run command prompt add your wget tool bin directory path using command e.g. **cd "C:\Program Files (x86)\GnuWin32\bin"**.  
+- Run wget tool on command prompt call **wget.exe --help** read instructions and try to do some tasks. 
 - Download any webpage source code using WGET tool. Finally write to text document summary what you learn to do using this tool.  
 
 ___
