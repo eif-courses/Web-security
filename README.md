@@ -14,20 +14,20 @@ Main goals:
 
 ### PRACTICAL TASKS
 ___
-### 1 TASK (10 points)
+### 1 Task (10 points)
 ___
 - Software already installed in computer classrooms if you using personal computers you can download from software section. 
 - Using OWASP Zed Attack Proxy Project (ZAP tool) try to find vulnerable website in "URL to Attack" field enter URL address and press start scan. In alerts tab you see all risks which is marked as warnings, medium and high priority risks. If you find web page with high priority risks first lecture you get bonus **10 points** to your final evaluation. 
 - Run A Windows Web development environment for Apache, MySQL, PHP databases and try to launch http://localhost:8888 if it working try to find www/ directory and add new webpage named myFirstPage.php, open that file and add simple code line <?php echo 'hello world!!!' ?> if everythis is fine and browser open your web page with text hello world !!! then you are ready to do next tasks.   
 
 ___
-### 2 TASK (10 points)
+### 2 Task (10 points)
 ___
 - Configure Damn Vulnerable Web Application - (http://www.dvwa.co.uk/) and run in localhost using WAMP server. When you run it you need to configure security levels and change to low, then find link XSS stored and try to create script which let you pop up window with text **hello world**.
 - Create script which store username and password information, redirect to anypage, shows up advertisments, play video or audio sounds.
 
 ___
-### 3 TASK (10 points)
+### 3 Task (10 points)
 ___
 
 - CAPTCHA (Completely Automated Public Turing
@@ -35,7 +35,7 @@ test to tell Computers and Humans Apart) – A CAPTCHA is a program that protect
 - Create your own unique CAPTCHA test which should have those components: picture, text, digit, quiz ect.   
 
 ___
-### 4 TASK (10 points)
+### 4 Task (10 points)
 ___
 
 - Download WGET tool (http://gnuwin32.sourceforge.net/packages/wget.htm) and first read help or documentation.
@@ -44,7 +44,7 @@ ___
 - Download any webpage source code using WGET tool. Finally write to text document summary what you learn to do using this tool.  
 
 ___
-### 5 TASK (10 points)
+### 5 Task (10 points)
 ___
 
 - Create **myFunction.php** then create own unique function which secure against XSS attacks (do not use default libraries functions e.g. htmlentities()). 
