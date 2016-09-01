@@ -63,9 +63,9 @@ ___
 - WGET - (http://gnuwin32.sourceforge.net/packages/wget.htm).
 
 ### LECTURE NOTES
-Web application security - (https://github.com/fontpoint/security/tree/master/lecture%20notes).
+- Web application security - (https://github.com/fontpoint/security/tree/master/lecture%20notes).
 
 ### LITERATURE
 
-Best place for beginners learn php, xml, html, JS, SQL - (http://www.w3schools.com/php/default.asp).  
-
+- Best place for beginners learn php, xml, html, JS, SQL - (http://www.w3schools.com/php/default.asp).  
+- The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition by Dafydd Stuttard, Marcus ISBN-13: 860-1404288999
