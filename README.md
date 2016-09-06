@@ -62,7 +62,7 @@ ___
 - WGET - (http://gnuwin32.sourceforge.net/packages/wget.htm).
 
 ### LECTURE NOTES
-- Web application security - (https://github.com/fontpoint/security/tree/master/lecture%20notes).
+- Web application security - (https://github.com/fontpoint/Security/tree/master/EN).
 
 ### LITERATURE
 
