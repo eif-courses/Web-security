@@ -23,8 +23,8 @@ ___
 ___
 ### 2 Task (10 points)
 ___
-- Configure Damn Vulnerable Web Application - (http://www.dvwa.co.uk/) and run in localhost using WAMP server. When you run it you need to configure security levels and change to low, then find link XSS stored and try to create script which let you pop up window with text **hello world**.
-- Create script which store username and password information, redirect to anypage, shows up advertisments, play video or audio sounds.
+- Configure Damn Vulnerable Web Application - (http://www.dvwa.co.uk/) and run in localhost using WAMP server. When you run it you need to configure security levels and change it to low, then find link XSS stored and try to create script which let you pop up window with text **hello world**.
+- Later create script which redirect you to your page hack.php and display fake page with same design look login form like in DVWA program and store username and password information to your data source e.g. database or textfile. Also try to implement different script where you can display ads or run audio files. 
 
 ___
 ### 3 Task (10 points)
