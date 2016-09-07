@@ -1,4 +1,4 @@
-#WEB SAUGUMAS
+##WEB SAUGUMAS
 
 ### Galutinio vertinimo formulė
 
@@ -6,11 +6,23 @@ Galutinis vertinimas = Savarankiška užduotis (40%) + Praktinės užduotys (30%
 
 
 ### Savarankiška uždtuotis
-Main goals:
-- Create secure Web application using any programming language you are already known e.g. PHP, JAVA, ASP ect.
-- Web application should have functionallity against top 10 most common web security vulnerabilities. (https://www.toptal.com/security/10-most-common-web-security-vulnerabilities). 
-- Create login page all data should save to database e.g. MySQL. Also you should implement one web page with basic CRUD (Create, Read, Update, Delete) operations.   
-- Create roles for users e.g. Administrator - have full control access, Basic user - have less access to web page functionalitty, Guest - only can see home page.    
+
+___
+- Semestro metu reikia sukurti saugią web aplikaciją, jos realizaciją galite rengti: PHP, JAVA, ASP ir t.t. Taip pat svetainėje turi būti numatytas duomenų validavimas, funkcionalumo plėtojimo galimybė (Nauji moduliai, pavyzdžiui: svetainės tema, kalba ir panašiai), apsaugota nuo išorinių vartotojų, dėl blogai suprogramuotos web aplikacijos galinčių peržiūrėti neleistiną turinį ar jį redaguoti. Taip pat apsaugota nuo MySQL injection, XSS ir kitų gerai žinomų isilaužimo technikų.
+
+___
+
+- Svetainėje turi būti prisijungimo puslapis (angl. login) ir atsijungimo nuo svetainės galimybė. Svetainės vidinius puslapius gali peržiūreti tik prisijungęs vartotojas. Taip pat turi būti bent 1 objektas su CRUD (Create, Read, Update, Delete) operacijomis. Duomenys saugomi duomenų bazėje MySQL ar kitoje jums žinomoje.
+
+___
+
+- Svetainėje turi būti prisijungimo puslapis (angl. login) ir atsijungimo nuo svetainės galimybė. Svetainės vidinius puslapius gali peržiūreti tik prisijungęs vartotojas. Taip pat turi būti bent 1 objektas su CRUD (Create, Read, Update, Delete) operacijomis. Duomenys saugomi duomenų bazėje MySQL ar kitoje jums žinomoje. Turi būti bent dviejų rolių (angl. role) vartotojai. Pavyzdžiui: Administratorius turintis visas teises trinti, pridėti, keisti duomenis ir Vartotojas, kuris gali sukurti, trinti, keisti tiktai savo įrašus.
+
+____
+
+- Praktinės užduotys bus atsiskaitomos praktinių užsiėmimų metu atsiskaitymas prasides nuo semestro pradžios iki paskutinės paskaitos, atsiskaičius WEB aplikaciją atsiųsti jos aprašą bei web aplikacijos "source code" el. paštu: m.gzegozevskis@eif.viko.ltgalutinį variantą, tada teorinės paskaitos metu pristatyti savo atliktą užduotį. Atsiskaitymo metu reikės atsakyti į klausimus, bei atlikti minimalius aplikacijos pakeitimus.
+
+___
 
 ### Praktinės užduotys
 ___
@@ -55,16 +67,17 @@ ___
 ### Egzaminas
 - Quiz from top 10 OWASP (Open Web Application Security Project) vulnerabilities.
 
-### SOFTWARE
+### Programinė įranga
 - A Windows Web development environment for Apache, MySQL, PHP databases (WAMP server). (https://sourceforge.net/projects/wampserver/files/latest/download).
 - Damn Vulnerable Web Application - (http://www.dvwa.co.uk/).
 - OWASP Zed Attack Proxy Project - (https://github.com/zaproxy/zaproxy/wiki/Downloads).
 - WGET - (http://gnuwin32.sourceforge.net/packages/wget.htm).
 
-### LECTURE NOTES
-- Web application security - (https://github.com/fontpoint/Security/tree/master/EN).
+### Paskaitų medžiaga
+- Web saugumas LT - (https://github.com/fontpoint/Security/tree/master/LT).
+- Web application security EN - (https://github.com/fontpoint/Security/tree/master/EN).
 
-### LITERATURE
+### Literatūros sąrašas
 
 - Best place for beginners learn php, xml, html, JS, SQL - (http://www.w3schools.com/php/default.asp).  
 - The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition by Dafydd Stuttard, Marcus ISBN-13: 860-1404288999
