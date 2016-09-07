@@ -20,7 +20,7 @@ ___
 
 ____
 
-- Praktinės užduotys bus atsiskaitomos praktinių užsiėmimų metu atsiskaitymas prasides nuo semestro pradžios iki paskutinės paskaitos, atsiskaičius WEB aplikaciją atsiųsti jos aprašą bei web aplikacijos "source code" el. paštu: m.gzegozevskis@eif.viko.ltgalutinį variantą, tada teorinės paskaitos metu pristatyti savo atliktą užduotį. Atsiskaitymo metu reikės atsakyti į klausimus, bei atlikti minimalius aplikacijos pakeitimus.
+- Praktinės užduotys bus atsiskaitomos praktinių užsiėmimų metu atsiskaitymas prasides nuo semestro pradžios iki paskutinės paskaitos, atsiskaičius WEB aplikaciją atsiųsti jos aprašą bei web aplikacijos "source code" el. paštu: m.gzegozevskis@eif.viko.lt galutinį variantą, tada teorinės paskaitos metu pristatyti savo atliktą užduotį. Atsiskaitymo metu reikės atsakyti į klausimus, bei atlikti minimalius aplikacijos pakeitimus.
 
 ___
 
