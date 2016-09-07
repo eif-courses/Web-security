@@ -52,7 +52,7 @@ ___
 
 ___
 ### Egzaminas
-- Quiz from top 10 OWASP (Open Web Application Security Project) vulnerabilities.
+- Testas iš top 10 OWASP (Open Web Application Security Project) web aplikacijų pažeidžiamumo technikų.
 
 ### Programinė įranga
 - A Windows Web development environment for Apache, MySQL, PHP databases (WAMP server). (https://sourceforge.net/projects/wampserver/files/latest/download).
