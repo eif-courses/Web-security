@@ -5,7 +5,7 @@
 Galutinis vertinimas = Savarankiška užduotis (40%) + Praktinės užduotys (30%) + Egzaminas (30%). </li>
 
 
-### Savarankiška uždtuotis
+### Savarankiška užduotis
 
 ___
 - Semestro metu reikia sukurti saugią web aplikaciją, jos realizaciją galite rengti: PHP, JAVA, ASP ir t.t. Taip pat svetainėje turi būti numatytas duomenų validavimas, funkcionalumo plėtojimo galimybė (Nauji moduliai, pavyzdžiui: svetainės tema, kalba ir panašiai), apsaugota nuo išorinių vartotojų, dėl blogai suprogramuotos web aplikacijos galinčių peržiūrėti neleistiną turinį ar jį redaguoti. Taip pat apsaugota nuo MySQL injection, XSS ir kitų gerai žinomų isilaužimo technikų.
