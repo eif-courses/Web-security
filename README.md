@@ -4,7 +4,7 @@ ___
 **EVALUATION** = HOMEWORK PROJECT (40%) + PRACTICAL TASKS (30%) + EXAM (30%). 
 ___
 
-REMOTE DESKTOP SERVER ADDRESS: **192.168.10.24** or **192.168.10.25**. User credentials same for both servers you are already have.
+Remote desktop server address: **192.168.10.24** or **192.168.10.25**. User credentials same for both servers you are already have.
 ___
 
 **HOMEWORK PROJECT.** Create secure Web application using any programming language you are already known e.g. PHP, JAVA, .NET ASP, Python ect:
