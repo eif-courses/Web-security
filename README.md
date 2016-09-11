@@ -1,11 +1,12 @@
 # WEB APPLICATIONS SECURITY COURSE
 
 ___
-REMOTE DESKTOP SERVER ADDRESS: **192.168.10.24** or **192.168.10.25**. 
-___
 **EVALUATION** = HOMEWORK PROJECT (40%) + PRACTICAL TASKS (30%) + EXAM (30%). 
-
 ___
+
+REMOTE DESKTOP SERVER ADDRESS: **192.168.10.24** or **192.168.10.25**. User credentials same for both servers you are already have.
+___
+
 **HOMEWORK PROJECT.** Create secure Web application using any programming language you are already known e.g. PHP, JAVA, .NET ASP, Python ect:
 ___
 - Web application should have functionallity against <a href="https://www.toptal.com/security/10-most-common-web-security-vulnerabilities">top 10</a>  most common web security vulnerabilities.
