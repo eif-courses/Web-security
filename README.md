@@ -4,7 +4,7 @@
 
 - FINAL EVALUATION = HOMEWORK PROJECT (40%) + PRACTICAL TASKS (30%) + EXAM (30%). 
 
-** Homework project. ** Create secure Web application using any programming language you are already known e.g. PHP, JAVA, .NET ASP, Python ect:
+**Homework project.** Create secure Web application using any programming language you are already known e.g. PHP, JAVA, .NET ASP, Python ect:
 - Web application should have functionallity against <a href="https://www.toptal.com/security/10-most-common-web-security-vulnerabilities">top 10</a>  most common web security vulnerabilities.
 - Create login page all data should save to database e.g. MySQL. Also you should implement one web page with basic CRUD (Create, Read, Update, Delete) operations.   
 - Create roles for users e.g. Administrator - have full control access, Basic user - have less access to web page functionalitty, Guest - only can see home page.    
