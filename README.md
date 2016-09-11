@@ -60,6 +60,7 @@ ___
 - Damn Vulnerable Web Application - (http://www.dvwa.co.uk/).
 - OWASP Zed Attack Proxy Project - (https://github.com/zaproxy/zaproxy/wiki/Downloads).
 - WGET - (http://gnuwin32.sourceforge.net/packages/wget.htm).
+- WIRESHARK - (https://www.wireshark.org/download.html).
 
 ### LECTURE NOTES
 - Web application security - (https://github.com/fontpoint/Security/tree/master/EN).
