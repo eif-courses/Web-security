@@ -50,7 +50,13 @@ ___
 - You should think how to ignore special characters in input fields, also you should implement data validation function.
 - When you prepeare to show your created unique function you should have some prepeared testing data for your myFunction.php input fields.
 
+___
 
+___
+### Extra task (10 points)
+___
+Install Wireshark packet sniffer program (https://www.wireshark.org/download.html). Try to get some sensitive data from different computer in your network e.g. e-mail message, login username and password, pictures ect. 
+___
 
 ### EXAM
 - Quiz from top 10 OWASP (Open Web Application Security Project) vulnerabilities.
