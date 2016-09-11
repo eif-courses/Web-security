@@ -15,29 +15,29 @@ ___
 
 ____
 
-### PRACTICAL TASKS
+####PRACTICAL TASKS
 ___
-### Task 1 (10 points)
+**Task 1** (10 points)
 ___
 - Software already installed in computer classrooms if you using personal computers you can download from software section. 
 - Using OWASP Zed Attack Proxy Project (ZAP tool) try to find vulnerable website in "URL to Attack" field enter URL address and press start scan. In alerts tab you see all risks which is marked as warnings, medium and high priority risks. If you find web page with high priority risks first lecture you get bonus **10 points** to your final evaluation. 
 - Run A Windows Web development environment for Apache, MySQL, PHP databases and try to launch http://localhost:8888 in computer classrooms if it working try to find www/ directory and add new webpage named myFirstPage.php, open that file and add simple code line <?php echo 'hello world!!!' ?> if it works run your page in browser type: (http://localhost:8888/myFirstPage.php). 
 
 ___
-### Task 2 (10 points)
+**Task 2** (10 points)
 ___
 - Configure Damn Vulnerable Web Application - (http://www.dvwa.co.uk/) and run in localhost using WAMP server. When you run it you need to configure security levels and change it to low, then find link XSS stored and try to create script which let you pop up window with text **hello world**.
 - Later create script which redirect you to your page hack.php and display fake page with same design look login form like in DVWA program and store username and password information to your data source e.g. database or textfile. Also try to implement different script where you can display ads or run audio files. 
 
 ___
-### Task 3 (10 points)
+**Task 3** (10 points)
 ___
 - CAPTCHA (Completely Automated Public Turing
 test to tell Computers and Humans Apart) – A CAPTCHA is a program that protects websites against bots by generating and grading tests that humans can pass but current computer programs cannot.
 - Create your own unique CAPTCHA test which should have those components: picture, text, digit, quiz ect.   
 
 ___
-### Task 4 (10 points)
+**Task 4** (10 points)
 ___
 
 - Download WGET tool (http://gnuwin32.sourceforge.net/packages/wget.htm) and first read help or documentation.
@@ -46,7 +46,7 @@ ___
 - Download any webpage source code using WGET tool. Finally write to text document summary what you learn to do using this tool.  
 
 ___
-### Task 5 (10 points)
+**Task 5** (10 points)
 ___
 
 - Create **myFunction.php** then create own unique function which secure against XSS attacks (do not use default libraries functions e.g. htmlentities()). 
@@ -54,25 +54,25 @@ ___
 - When you prepeare to show your created unique function you should have some prepeared testing data for your myFunction.php input fields.
 
 ___
-### Extra task (10 points)
+**Extra task** (10 points)
 ___
 Install Wireshark packet sniffer program (https://www.wireshark.org/download.html). Try to get some sensitive data from different computer in your network e.g. e-mail message, login username and password, pictures ect. 
 ___
 
-### EXAM
+**EXAM**
 - Quiz from top 10 OWASP (Open Web Application Security Project) vulnerabilities.
 
-### SOFTWARE
+**SOFTWARE**
 - A Windows Web development environment for Apache, MySQL, PHP databases (WAMP server). (https://sourceforge.net/projects/wampserver/files/latest/download).
 - Damn Vulnerable Web Application - (http://www.dvwa.co.uk/).
 - OWASP Zed Attack Proxy Project - (https://github.com/zaproxy/zaproxy/wiki/Downloads).
 - WGET - (http://gnuwin32.sourceforge.net/packages/wget.htm).
 - WIRESHARK - (https://www.wireshark.org/download.html).
 
-### LECTURE NOTES
+**LECTURE NOTES**
 - Web application security - (https://github.com/fontpoint/Security/tree/master/EN).
 
-### LITERATURE
+**LITERATURE**
 
 - Best place for beginners learn php, xml, html, JS, SQL - (http://www.w3schools.com/php/default.asp).  
 - The Web Application Hacker's Handbook: Finding and Exploiting Security Flaws 2nd Edition by Dafydd Stuttard, Marcus ISBN-13: 860-1404288999
