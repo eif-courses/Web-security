@@ -2,7 +2,12 @@
 
 ___
 **EVALUATION** = HOMEWORK PROJECT (40%) + PRACTICAL TASKS (30%) + EXAM (30%). 
+
+HERE YOU FIND YOUR TASK RESULTS: (https://vikolt-my.sharepoint.com/personal/m_gzegozevskis_ad_viko_lt/_layouts/15/guestaccess.aspx?guestaccesstoken=Ss%2fV1SI2K7L8UnimYN4n1Mgc2N6D3uy0kRAxsiCDm4U%3d&docid=0ef88d5256c2247439a1b62b5c610f973&rev=1).
+
 ___
+
+
 
 Remote desktop server address: **192.168.10.24** or **192.168.10.25**. User credentials same for both servers you are already have.
 ___
