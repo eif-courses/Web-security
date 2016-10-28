@@ -7,7 +7,7 @@ HERE YOU FIND YOUR TASK RESULTS: (https://vikolt-my.sharepoint.com/personal/m_gz
 
 ___
 
-For PHP SERVER IP ADRESS: http://10.1.16.81/shared 
+For PHP SERVER IP ADRESS: http://10.1.16.81/shared
 
 Remote desktop server address: **192.168.10.24** or **192.168.10.25**. User credentials same for both servers you are already have.
 ___
