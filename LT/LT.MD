@@ -7,15 +7,15 @@
 ```
 ___
 - **2016-11-10**
-Gintaras Baltramaitis, Mindaugas Ežerskas, Simonas Kasparas, Edvard Makarevič, Darius Romanovskis, Tomas Šeduikis, Danas Vogulis, Arnas Juškevičius
+Gintaras Baltramaitis, Mindaugas Ežerskas, Simonas Kasparas, Edvard Makarevič, Darius Romanovskis, Tomas Šeduikis, Danas Vogulis, Arnas Juškevičius.
 
 ___
 - **2016-11-17**
-Eivinas Grigaitis, Margarita IvanauskaitėLaurynas Kanaporis, Arnas Milaševičius, Ėglius Navikas, Lukas Ralys , Elvinas Šulskis, Erikas Švėgžda, Justas Valantinavičius
+Eivinas Grigaitis, Margarita IvanauskaitėLaurynas Kanaporis, Arnas Milaševičius, Ėglius Navikas, Lukas Ralys , Elvinas Šulskis, Erikas Švėgžda, Justas Valantinavičius.
 
 ___
 - **2016-11-24**
-Robertas Ciūnys, Gytis Romualdas Čiūta, Vytautas Kulionis, Vaclovas Lapinskis, Egidijus Lileika, Paulius Sabulis, Andrius Smirnovas, Robert Šabanovič
+Robertas Ciūnys, Gytis Romualdas Čiūta, Vytautas Kulionis, Vaclovas Lapinskis, Egidijus Lileika, Paulius Sabulis, Andrius Smirnovas, Robert Šabanovič.
 
 ___
 
