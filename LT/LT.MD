@@ -1,4 +1,26 @@
-##WEB SAUGUMAS
+#WEB SAUGUMAS
+
+```diff
+- DĖMESIO SEMESTRAS BAIGIĄSI LAPKRIČIO 24d.
++ Savarankiškų užduočių pristatymai, pradedami 2016 11 10 - 2016 11 24 teorinių paskaitų metu, savanoriai turi pirmenybę. Jeigu jų nėra tada orientuokitės pagal grupės sąrašą, kas ketvirtas studentas.
+```
+
+___
+- **2016-11-10**
+Gintaras Baltramaitis, Mindaugas Ežerskas, Simonas Kasparas, Edvard Makarevič, Darius Romanovskis, Tomas Šeduikis, Danas Vogulis, Arnas Juškevičius
+
+___
+- **2016-11-17**
+Eivinas Grigaitis, Margarita IvanauskaitėLaurynas Kanaporis, Arnas Milaševičius, Ėglius Navikas, Lukas Ralys , Elvinas Šulskis, Erikas Švėgžda, Justas Valantinavičius
+
+___
+- **2016-11-24**
+Robertas Ciūnys, Gytis Romualdas Čiūta, Vytautas Kulionis, Vaclovas Lapinskis, Egidijus Lileika, Paulius Sabulis, Andrius Smirnovas, Robert Šabanovič
+
+___
+
+
+
 
 ### Galutinio vertinimo formulė
 
