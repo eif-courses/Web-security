@@ -1,5 +1,13 @@
 ## WEB APPLICATIONS SECURITY COURSE
 
+
+```diff
+- FALL SEMESTER ENDS 2016 NOVEMBER 25TH.  
++ EXAM DATE FOR ERASMUS 2016 11 28. 
+
+```
+
+
 ___
 **EVALUATION** = HOMEWORK PROJECT (40%) + PRACTICAL TASKS (30%) + EXAM (30%). 
 
@@ -9,7 +17,7 @@ ___
 
 For PHP SERVER IP ADRESS: http://10.1.16.81/shared
 
-Edit files directory address: \\DESKTOP-LBVG991\shared
+Edit files directory address: \\MARIUS\shared
 
 
 Remote desktop server address: **192.168.10.24** or **192.168.10.25**. User credentials same for both servers you are already have.
