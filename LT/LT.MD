@@ -11,7 +11,7 @@ Gintaras Baltramaitis, Mindaugas Ežerskas, Simonas Kasparas, Edvard Makarevič,
 
 ___
 - **2016-11-17**
-Eivinas Grigaitis, Margarita IvanauskaitėLaurynas Kanaporis, Arnas Milaševičius, Ėglius Navikas, Lukas Ralys , Elvinas Šulskis, Erikas Švėgžda, Justas Valantinavičius.
+Eivinas Grigaitis, Margarita Ivanauskaitė, Laurynas Kanaporis, Arnas Milaševičius, Ėglius Navikas, Lukas Ralys , Elvinas Šulskis, Erikas Švėgžda, Justas Valantinavičius.
 
 ___
 - **2016-11-24**
